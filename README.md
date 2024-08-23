@@ -1,5 +1,4 @@
 ## Hi there 👋
-![Codewars](https://github.r2v.ch/codewars?user=Lenin-Grub&name=true) ![Leetcode Stats](https://leetcard.jacoblin.cool/Lenin-Grub?theme=dark&font=Quattrocento)
 <!--
 **Lenin-Grub/Lenin-Grub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
